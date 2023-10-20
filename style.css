@@ -1,0 +1,5 @@
+h1{color: palevioletred(200,60,217);}
+h1{text-align: center;}
+h2{color: black(150,38,100);}
+body{background-color: red(200,200,200);}
+img{ color-interpolation-filters: linearRGB;}
